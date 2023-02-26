@@ -13,7 +13,7 @@ This project consists of a server-side script that generates Fibonacci numbers i
 
 1. Clone the repository: 
   ```
-  git clone 
+  git clone https://github.com/rishabh-kukreja/fibonacci-websocket.git
   ```
 2. Open a terminal window and navigate to the project directory.
 3. Create a new virtual environment: 
