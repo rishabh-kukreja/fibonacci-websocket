@@ -78,11 +78,6 @@ class FibonacciClient(QWidget):
                 self.result_text.clear()
                 self.result_text.append(f"{str(e)}")
 
-
-    def show_error(self, message):
-        # Display an error message in the error label
-        self.error_label.setText(f"Error: {message}")
-
     def clear_errors(self):
         # Clear any previous error messages from the error label
         self.error_label.clear()
