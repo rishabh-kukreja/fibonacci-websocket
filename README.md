@@ -57,8 +57,8 @@ This project consists of a server-side script that generates Fibonacci numbers i
 
 ## Images
 ##### Valid Input
-![Valid Input](https://github.com/rishabh-kukreja/fib-assignment/blob/main/imgs/fibonacci-valid-input.png)
+![Valid Input](https://github.com/rishabh-kukreja/fibonacci-websocket/blob/main/imgs/fibonacci-valid-input.png)
 
 ##### Invalid Input
-![Invalid Input](https://github.com/rishabh-kukreja/fib-assignment/blob/main/imgs/fibonacci-invalid-input.png)
+![Invalid Input](https://github.com/rishabh-kukreja/fibonacci-websocket/blob/main/imgs/fibonacci-invalid-input.png)
 
